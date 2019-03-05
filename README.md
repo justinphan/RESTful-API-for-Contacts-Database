@@ -17,3 +17,11 @@ POST /api/contacts create new contact
 GET /api/contacts/{id} retrieve a single contact
 PUT /api/contacts/{id} update a single contact
 DELETE /api/contacts/{id} delete a single contact
+
+Model
+![alt text](https://i.imgur.com/a8z28Vz.png)
+
+Control
+![alt text](https://i.imgur.com/4qXnOkS.png)
+
+
