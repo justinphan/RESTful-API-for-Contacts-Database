@@ -1,4 +1,4 @@
-# resthub
+
 This program is a example of a simple API using ExpressJs and MongoDb with CRUD functions for contacts.
 
 RESTFul APIs are APIs that conform to the REST architecture style which defines a set of constraints and properties based on HTTP.The Commonest implementation of RESTFul web service is JSON API.
