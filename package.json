@@ -1,0 +1,19 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "An app demostrating simple Restful API implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "resful",
+    "json"
+  ],
+  "author": "Justin Phan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
